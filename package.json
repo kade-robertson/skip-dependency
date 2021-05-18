@@ -1,12 +1,12 @@
 {
-  "name": "@favware/skip-dependency",
-  "description": "Skip pesky dependencies with ease",
-  "author": "@favware",
+  "name": "@kade-robertson/skip-dependency",
+  "description": "Skip pesky dependencies with ease, forked",
+  "author": "favware",
   "version": "1.1.1",
   "main": "index.js",
   "module": "index.mjs",
   "license": "MIT",
-  "homepage": "https://github.com/favware/skip-dependency#readme",
+  "homepage": "https://github.com/kade-robertson/skip-dependency#readme",
   "exports": {
     "require": "./index.js",
     "default": "./index.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/favware/skip-dependency.git"
+    "url": "git+https://github.com/kade-robertson/skip-dependency.git"
   },
   "bugs": {
     "url": "https://github.com/favware/skip-dependency/issues"
